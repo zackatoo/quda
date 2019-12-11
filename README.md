@@ -1,2 +1,2 @@
-# quda
-A CUDA based GPU accelerated Quantum Virtual Machine
+# QUDA
+A CUDA based GPU accelerated Quantum Virtual Machine.
